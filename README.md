@@ -22,5 +22,3 @@ java jdbc工具类， 数据库表元数据解析，目前只解析mysql(待补�
 json-lib,jackson,fastjson,gson
 ### 10 com.wind.ftl
 java基于freemarker的模板生成工具
-### 11 com.wind.reflect
-java proxy反射，asm
