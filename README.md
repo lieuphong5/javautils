@@ -20,5 +20,4 @@ xml解析工具类
 java jdbc工具类， 数据库表元数据解析，目前只解析mysql(待补充)
 ### 9 com.wind.json
 json-lib,jackson,fastjson,gson
-### 10 com.wind.ftl
-java基于freemarker的模板生成工具
+
